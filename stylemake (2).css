@@ -1,0 +1,74 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#con {
+  color: black;
+  background-color: #ddd;
+  line-height: 2px;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 10px;
+  max-width: 300px;
+  margin: auto;  
+}
+
+.sign{
+  text-align: center;
+}
+
+.first{
+  width: 100% ;
+  padding: 2px; 
+  /* all paddings value has to change  */
+  margin: 10px;
+  line-height: 0.5px;
+}
+
+
+/* ye dekh */
+ .last input:focus {
+   border-color: #3388ba;
+   outline: none;
+ }
+
+.last input{
+  border-width: 1px;
+  margin: 10px;
+  line-height: 1px;
+}
+
+/* yahan tak */
+
+.email{
+  margin: 10px;
+  line-height: 1px;
+}
+.pass{
+  margin: 10px;
+  line-height: 1px;
+}
+.confirm {
+  margin: 10px;
+  line-height: 1px;
+}
+.last{
+  margin: 10px;
+}
+.sign {
+  margin: 10px;
+  line-height: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  padding: 0px;
+}
+
+.up{
+  padding-top: 20px;
+  text-align: center;
+  background:;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 10px;
+  border-color: lightgreen;
+}
