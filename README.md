@@ -12,4 +12,4 @@ This is from where I started my journey..
 -------------------
 
 ### You can visit the website over here :
-https://gautam-012.github.io/Voyage_Website/
+https://gautam-012.github.io/voyageWebsite/
